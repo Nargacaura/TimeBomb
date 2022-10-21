@@ -3,17 +3,17 @@
 [par Kalumvuati Duramana, Duran Mike, Ledda Damien & Senol Mustafa]\
 **Sommaire**
 
-- [Avant-goût: **à propos du *Timebomb***](#avant-go%c3%bbt-%c3%a0-propos-du-timebomb)
-- [Implémentation numérique: ***wireframe* & explications**](#impl%c3%a9mentation-num%c3%a9rique-wireframe--explications)
-  - [*Wireframe général*](#wireframe-g%c3%a9n%c3%a9ral)
+- [Avant-goût: **à propos du *Timebomb***](#avant-goût-à-propos-du-timebomb)
+- [Implémentation numérique: ***wireframe* & explications**](#implémentation-numérique-wireframe--explications)
+  - [*Wireframe général*](#wireframe-général)
   - [Les Frameworks](#les-frameworks)
-  - [*Détails de la maquette*](#d%c3%a9tails-de-la-maquette)
+  - [*Détails de la maquette*](#détails-de-la-maquette)
     - [Menu principal](#menu-principal)
-    - [Paramétrage du jeu](#param%c3%a9trage-du-jeu)
-    - [Règles du jeu](#r%c3%a8gles-du-jeu)
-    - [Sélection du nombre de joueurs & insertion des pseudos](#s%c3%a9lection-du-nombre-de-joueurs--insertion-des-pseudos)
-    - [Déroulement du jeu](#d%c3%a9roulement-du-jeu)
-    - [Partie terminée](#partie-termin%c3%a9e)
+    - [Paramétrage du jeu](#paramétrage-du-jeu)
+    - [Règles du jeu](#règles-du-jeu)
+    - [Sélection du nombre de joueurs & insertion des pseudos](#sélection-du-nombre-de-joueurs--insertion-des-pseudos)
+    - [Déroulement du jeu](#déroulement-du-jeu)
+    - [Partie terminée](#partie-terminée)
 
 ## Avant-goût: **à propos du *Timebomb***
 

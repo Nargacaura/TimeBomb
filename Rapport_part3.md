@@ -4,11 +4,11 @@
 **Sommaire**
 
 - [**Organisation**](#organisation)
-  - [*Plan de travail réalisé*](#plan-de-travail-r%c3%a9alis%c3%a9)
-  - [*Leçons tirées du projet*](#le%c3%a7ons-tir%c3%a9es-du-projet)
-- [**Difficultés encontrées**](#difficult%c3%a9s-encontr%c3%a9es)
-  - [*Problèmes techniques*](#probl%c3%a8mes-techniques)
-  - [*Modules supprimés de la maquette initiale et/ou du développement*](#modules-supprim%c3%a9s-de-la-maquette-initiale-etou-du-d%c3%a9veloppement)
+  - [*Plan de travail réalisé*](#plan-de-travail-réalisé)
+  - [*Leçons tirées du projet*](#leçons-tirées-du-projet)
+- [**Difficultés encontrées**](#difficultés-encontrées)
+  - [*Problèmes techniques*](#problèmes-techniques)
+  - [*Modules supprimés de la maquette initiale et/ou du développement*](#modules-supprimés-de-la-maquette-initiale-etou-du-développement)
 
 ## **Organisation**
 
